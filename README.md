@@ -56,10 +56,11 @@ You can start editing the page by modifying `app/page.tsx`. The page will automa
 
 ## Project Overview
 
-This project includes a demonstration video:
+This project includes a demonstration video. You can view it [here](resources/video.mp4).
+
+Here are some key parts of the video:
 
 ![Demo](resources/output.gif)
-
 
 ## Screenshots
 
