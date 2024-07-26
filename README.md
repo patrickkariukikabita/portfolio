@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Next.js Tailwind.css Fullstack Developer Portfolio
+
+Welcome to my [Next.js](https://nextjs.org/) fullstack web developer portfolio, built with Tailwind CSS and bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+To get started with this project:
+
+1. **Clone the Repository**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+   git clone https://github.com/patrickkariukikabita/portfolio.git
+```
+or download the code from this repository
+
+2. **Navigate to the Project Directory**
+
+```bash
+   cd portfolio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. **Install Dependencies**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+   Install the project dependencies using npm:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+   npm install
+```
 
-## Learn More
+4. **Start the Development Server**
 
-To learn more about Next.js, take a look at the following resources:
+   Run the development server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+   npm run dev
+   # or
+   npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. **View the Application**
 
-## Deploy on Vercel
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can start editing the page by modifying `app/page.tsx`. The page will automatically update as you make changes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Project Overview
+
+This project includes a demonstration video:
+
+<video width="640" height="480" controls>
+  <source src="resources/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot 1](resources/screenshot1.png)
+![Screenshot 2](resources/screenshot2.png)
+
+## Live Preview
+
+You can view a live preview of the project at:
+
+- [portfolio.bytemast.com](https://portfolio.bytemast.com)
+
+## Visit My Site
+
+- [www.bytemast.com](https://bytemast.com) - An interactive Next.js tutorial.
+
+Feel free to explore the project and provide feedback or suggestions.
+
+
