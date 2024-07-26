@@ -64,10 +64,10 @@ Here are some key parts of the video:
 
 ## Screenshots
 
-Here are some screenshots of the application:
+Here is a screenshot of the application:
 
 ![Screenshot 1](resources/screenshot1.png)
-![Screenshot 2](resources/screenshot2.png)
+
 
 ## Live Preview
 
