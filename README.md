@@ -1,6 +1,12 @@
 
 # Next.js Tailwind.css Fullstack Developer Portfolio
 
+## Languages
+1. TypeScript
+2. javaScript
+3. Tailwind css
+
+
 Welcome to my [Next.js](https://nextjs.org/) fullstack web developer portfolio, built with Tailwind CSS and bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
