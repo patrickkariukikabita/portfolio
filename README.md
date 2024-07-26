@@ -54,12 +54,12 @@ You can start editing the page by modifying `app/page.tsx`. The page will automa
 
 ## Project Overview
 
+## Project Overview
+
 This project includes a demonstration video:
 
-<video width="640" height="480" controls>
-  <source src="resources/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](resources/output.gif)
+
 
 ## Screenshots
 
